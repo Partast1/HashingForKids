@@ -1,0 +1,13 @@
+C:\Users\asdf\source\repos\HashingForKids\bin\Debug\netcoreapp3.1\HashingForKids.exe
+C:\Users\asdf\source\repos\HashingForKids\bin\Debug\netcoreapp3.1\HashingForKids.deps.json
+C:\Users\asdf\source\repos\HashingForKids\bin\Debug\netcoreapp3.1\HashingForKids.runtimeconfig.json
+C:\Users\asdf\source\repos\HashingForKids\bin\Debug\netcoreapp3.1\HashingForKids.runtimeconfig.dev.json
+C:\Users\asdf\source\repos\HashingForKids\bin\Debug\netcoreapp3.1\HashingForKids.dll
+C:\Users\asdf\source\repos\HashingForKids\bin\Debug\netcoreapp3.1\HashingForKids.pdb
+C:\Users\asdf\source\repos\HashingForKids\obj\Debug\netcoreapp3.1\HashingForKids.csprojAssemblyReference.cache
+C:\Users\asdf\source\repos\HashingForKids\obj\Debug\netcoreapp3.1\HashingForKids.csproj.CoreCompileInputs.cache
+C:\Users\asdf\source\repos\HashingForKids\obj\Debug\netcoreapp3.1\HashingForKids.AssemblyInfoInputs.cache
+C:\Users\asdf\source\repos\HashingForKids\obj\Debug\netcoreapp3.1\HashingForKids.AssemblyInfo.cs
+C:\Users\asdf\source\repos\HashingForKids\obj\Debug\netcoreapp3.1\HashingForKids.dll
+C:\Users\asdf\source\repos\HashingForKids\obj\Debug\netcoreapp3.1\HashingForKids.pdb
+C:\Users\asdf\source\repos\HashingForKids\obj\Debug\netcoreapp3.1\HashingForKids.genruntimeconfig.cache
